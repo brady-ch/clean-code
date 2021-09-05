@@ -1,2 +1,2 @@
 # README
-This was written in obsidian and indented to be viewed in it. it will work without it, however not everything will look right and the links will not work. These are my notes on how to write clean code.
+This was written in obsidian and intended to be viewed in it. it will work without it, however not everything will look right and the links will not work. These are my notes on how to write clean code.
